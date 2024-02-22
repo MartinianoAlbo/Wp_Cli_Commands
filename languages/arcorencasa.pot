@@ -1,0 +1,2737 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Arcor En Casa\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-28 12:13+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#. files count.
+#: print/template-order-print.php:284
+#, php-format
+msgid "%s Files"
+msgstr ""
+
+#: orderstatus/class-emails.php:173
+msgid ""
+"- En caso de que el pedido todavía no haya sido entregado, procederemos a "
+"hacerte el reembolso del valor del mismo, y luego lo cancelaremos. Esto lo "
+"estaremos realizando durante las próximas 48 hs hábiles. Tené en cuenta que "
+"la devolución del importe depende de los tiempos de procesamiento de tu "
+"tarjeta."
+msgstr ""
+
+#: orderstatus/class-emails.php:172
+msgid ""
+"- En caso que el pedido ya haya sido entregado, actualizaremos el estado a "
+"\"SOLICITUD DE DEVOLUCIÓN\", y te lo notificaremos vía email "
+msgstr ""
+
+#: popup-maker/class-popupmaker.php:47 popup-maker/class-popupmaker.php:54
+msgid "111111, 1234, ..."
+msgstr ""
+
+#: distributors/class-admin.php:29
+msgid "2do Intento de entrega fallido"
+msgstr ""
+
+#: orderstatus/class-emails.php:89 orderstatus/class-emails.php:182
+#: orderstatus/class-emails.php:261 orderstatus/class-emails.php:360
+#: orderstatus/class-emails.php:444
+#, php-format
+msgid "[Orden #%s]"
+msgstr ""
+
+#: calendardelivery/class-calendardelivery.php:225
+msgid "a"
+msgstr ""
+
+#: orderstatus/class-emails.php:356
+msgid ""
+"A continuación encontrarás el detalle del pedido que procederemos a retirar. "
+"Te pedimos que te asegures de tener el pedido completo."
+msgstr ""
+
+#: address-modal/templates/address-selector-modal.php:101
+#: address-modal/templates/address-selector-modal.php:167
+msgid "A continuación podrás indicarnos dónde querés que enviemos tu pedido."
+msgstr ""
+
+#: login-modal/class-mco-login-modal.php:310
+msgid "Acceso exitoso. Redireccionando..."
+msgstr ""
+
+#: distributors/views/distributor-data-payment.php:57
+msgid "Access Token Prod"
+msgstr ""
+
+#: distributors/views/distributor-data-payment.php:75
+msgid "Access Token Test"
+msgstr ""
+
+#: orderstray/class-orderstray.php:516 orderstray/class-orderstray.php:530
+#: coupons/class-table-promo.php:81 reports/class-list-reports-table.php:140
+#: sampling/class-table-samples.php:100
+msgid "Acciones"
+msgstr ""
+
+#: coupons/class-table-promo.php:58 sampling/class-table-samples.php:76
+#: distributors/views/distributor-data-payment.php:29
+msgid "Activar"
+msgstr ""
+
+#: distributors/views/distributor-data-payment.php:91
+msgid "Activar Lyra"
+msgstr ""
+
+#: distributors/views/distributor-data-payment.php:40
+msgid "Activar Mercadopago"
+msgstr ""
+
+#: admin/class-settings.php:420
+msgid "Activar micrositio"
+msgstr ""
+
+#: admin/class-settings.php:425
+msgid "Activar Modo de Prueba (habilita solo 1 distribuidor)"
+msgstr ""
+
+#: otp-login/lib/settings.php:13
+msgid "Activar OTP Login"
+msgstr ""
+
+#. id
+#: admin/class-settings.php:93
+msgid "Activar sub-módulo"
+msgstr ""
+
+#: sampling/class-table-samples.php:95
+msgid "Activo"
+msgstr ""
+
+#: import-users/class-import-csv-users-table.php:244
+msgid "Actualizado"
+msgstr ""
+
+#: distributors/class-distributors-menu.php:89
+msgid "Actualizar Distribuidor"
+msgstr ""
+
+#: import-users/class-import-csv-users.php:92
+#: import-users/class-import-csv-users-table.php:428
+msgid "Actualizar usuario si existe"
+msgstr ""
+
+#: onboarding/class-onboarding.php:459 location/class-public.php:21
+msgid "Acá quiero recibir el pedido"
+msgstr ""
+
+#: stock/class-import-csv-stocks.php:97
+msgid "Advertencia"
+msgstr ""
+
+#: calendardelivery/class-import-csv-calendar.php:84
+#: calendardelivery/class-import-csv-calendar.php:115
+msgid "Advertencia: esto borra todo lo que ya esta cargado previamente"
+msgstr ""
+
+#: address-modal/class-mco-address-modal.php:362
+msgid "Agregado "
+msgstr ""
+
+#: address-modal/class-mco-address-modal.php:174
+msgid "AGREGAR AL PEDIDO"
+msgstr ""
+
+#: category-footer-widget/class-category-footer-slider-widget.php:125
+#: category-footer-widget/class-category-footer-slider-widget.php:138
+#: onboarding/class-onboarding.php:107
+#: login-modal/class-mco-login-modal.php:146
+#: login-modal/class-mco-login-modal.php:153
+#: login-modal/class-mco-login-modal.php:408
+#: login-modal/class-mco-login-modal.php:416
+#: sku-slider-widget/class-sku-slider-widget.php:90
+#: sku-slider-widget/class-sku-slider-widget.php:103
+#: checkout-crosssell/class-crosssell.php:153
+msgid "Agregar al pedido"
+msgstr ""
+
+#: address-modal/class-mco-address-modal.php:364
+msgid "Agregar Dirección"
+msgstr ""
+
+#: distributors/class-distributors-menu.php:86
+msgid "Agregar Distribuidor"
+msgstr ""
+
+#: address-modal/templates/address-selector-modal.php:249
+msgid "Agregar instrucciones de envío (opcional)"
+msgstr ""
+
+#: address-modal/templates/address-selector-modal.php:112
+#: address-modal/templates/address-selector-modal.php:178
+#: address-book/templates/myaccount/my-address-book.php:95
+msgid "Agregar nueva dirección"
+msgstr ""
+
+#: distributors/class-distributors-menu.php:87
+msgid "Agregar Nuevo"
+msgstr ""
+
+#: login-modal/class-mco-login-modal.php:374
+msgid "Aguardá un instante..."
+msgstr ""
+
+#: onboarding/class-onboarding.php:464 location/class-public.php:26
+#: onboarding/includes/templates/show-address-modal.php:4
+#: onboarding/includes/templates/fill-checkout-inputs.php:320
+#: location/includes/templates/show-address-modal.php:4
+#: location/includes/templates/fill-checkout-inputs.php:215
+msgid "Al finalizar la compra te pediremos que confirmes la dirección."
+msgstr ""
+
+#: address-modal/templates/address-selector-modal.php:168
+msgid ""
+"Al finalizar tu compra podrás agregar un mensaje para el agasajado, que "
+"adjuntaremos al regalo."
+msgstr ""
+
+#: otp-login/lib/settings.php:29
+msgid ""
+"al usar esta clase, puede agregar una ventana emergente de inicio de sesión "
+"OTP en el sitio web"
+msgstr ""
+
+#: address-modal/templates/addressModal.php:71
+#: address-modal/templates/addressModal.php:108
+#: address-modal/templates/addressModal.php:166
+msgid "ANTERIOR"
+msgstr ""
+
+#: checkout-multistep/classes/class-thwmscf-settings.php:72
+#: checkout-multistep/templates/checkout/form-checkout.php:53
+msgid "Anterior"
+msgstr ""
+
+#: checkout-crosssell/class-crosssell.php:110
+msgid "Antes de terminar tu compra"
+msgstr ""
+
+#: checkout/checkout-js.php:349
+#: import-users/class-import-csv-users-table.php:236
+#: login-modal/templates/loginFormModal.php:116
+#: login-modal/templates/loginFormModal.php:117
+msgid "Apellido"
+msgstr ""
+
+#: import-users/class-import-csv-users.php:73
+#: import-users/class-import-csv-users-table.php:409
+msgid "Archivo CSV"
+msgstr ""
+
+#: onboarding/class-onboarding.php:460 location/class-public.php:22
+msgid "Arrastrame al lugar exacto"
+msgstr ""
+
+#: orderstray/class-orderstray.php:484
+msgid "Arrepentido"
+msgstr ""
+
+#: onboarding/class-onboarding.php:462 location/class-public.php:24
+msgid "Ayudate buscando una dirección en el mapa"
+msgstr ""
+
+#: address-modal/templates/address-selector-modal.php:166
+msgid "Aún no tienes direcciones para regalo registradas."
+msgstr ""
+
+#: address-modal/templates/address-selector-modal.php:100
+msgid "Aún no tienes direcciones registradas."
+msgstr ""
+
+#: orderstray/class-orderstray.php:925
+msgid "Bandeja de Pedidos"
+msgstr ""
+
+#: admin/class-settings.php:278
+msgid "Banner"
+msgstr ""
+
+#: admin/class-settings.php:254
+msgid "Banner url"
+msgstr ""
+
+#: admin/class-settings.php:287
+msgid "Banner url (desktop)"
+msgstr ""
+
+#: admin/class-settings.php:296
+msgid "Banner url (mobile)"
+msgstr ""
+
+#. id
+#: admin/class-settings.php:305
+msgid "Banner zona sin distribuidor"
+msgstr ""
+
+#: print/template-order-print.php:47
+msgid "Billing Address"
+msgstr ""
+
+#: orderstray/class-orderstray.php:872 orderstray/class-orderstray.php:923
+#: stock/class-stock-menu-table.php:421
+#: import-users/class-import-csv-users-table.php:389
+msgid "Buscar"
+msgstr ""
+
+#: distributors/class-distributors-menu.php:90
+msgid "Buscar Distribuidor"
+msgstr ""
+
+#: address-modal/templates/address-selector-modal.php:210
+msgid "C. Postal (*)"
+msgstr ""
+
+#: memcache/class-memcache.php:177
+msgid "Cachear muestras gratis"
+msgstr ""
+
+#: memcache/class-memcache.php:164
+msgid "Cachear Stocks"
+msgstr ""
+
+#: calendardelivery/class-import-csv-calendar.php:83
+msgid "Calendario de todos los distribuidores"
+msgstr ""
+
+#: distributors/arcor-distributors.php:37
+msgid "Calendario envío"
+msgstr ""
+
+#: checkout/checkout-js.php:571 print/template-functions.php:197
+#: distributors/class-admin.php:108
+msgid "Calle"
+msgstr ""
+
+#: checkout/class-checkout.php:556 checkout/class-checkout.php:562
+#: checkout/class-checkout.php:589 checkout/class-checkout.php:595
+#: checkout/class-checkout.php:829 checkout/class-checkout.php:912
+msgid "Calle 1"
+msgstr ""
+
+#: checkout/class-checkout.php:566 checkout/class-checkout.php:572
+#: checkout/class-checkout.php:599 checkout/class-checkout.php:605
+#: checkout/class-checkout.php:836 checkout/class-checkout.php:919
+msgid "Calle 2"
+msgstr ""
+
+#: address-modal/templates/address-selector-modal.php:226
+msgid "Calle sin altura"
+msgstr ""
+
+#: onboarding/includes/templates/fill-checkout-inputs.php:345
+#: onboarding/includes/templates/fill-checkout-inputs.php:364
+#: location/includes/templates/fill-checkout-inputs.php:235
+#: location/includes/templates/fill-checkout-inputs.php:254
+msgid "Calle sin número"
+msgstr ""
+
+#: onboarding/class-onboarding.php:474 location/class-public.php:31
+#: onboarding/includes/templates/fill-checkout-inputs.php:417
+#: location/includes/templates/fill-checkout-inputs.php:300
+msgid "Cambiar"
+msgstr ""
+
+#: address-modal/class-mco-address-modal.php:361
+msgid "Cambiar Dirección"
+msgstr ""
+
+#: onboarding/class-onboarding.php:471
+msgid "Cambiar dirección"
+msgstr ""
+
+#: change-distributor-id/lib/settings.php:24
+msgid "Cambiar distribuidor Orden"
+msgstr ""
+
+#: orderstatus/class-new-status.php:330
+msgid "Cambiar estado a Devuelto"
+msgstr ""
+
+#: orderstatus/class-new-status.php:327
+msgid "Cambiar estado a En Armado"
+msgstr ""
+
+#: orderstray/class-orderstray.php:595
+msgid "Cambiar estado a en Armado"
+msgstr ""
+
+#: orderstray/class-orderstray.php:593
+msgid "Cambiar estado a en Espera"
+msgstr ""
+
+#: orderstray/class-orderstray.php:597 distributors/class-admin.php:757
+msgid "Cambiar estado a Entregado"
+msgstr ""
+
+#: orderstray/class-orderstray.php:596 orderstatus/class-new-status.php:325
+msgid "Cambiar estado a Listo para Entregar"
+msgstr ""
+
+#: orderstray/class-orderstray.php:594
+msgid "Cambiar estado a Procesando"
+msgstr ""
+
+#: calendardelivery/delivery-date-content.php:18
+msgid "Cambiar Fecha >"
+msgstr ""
+
+#: change-distributor-id/lib/settings.php:2
+msgid "Cambiar ID de Distribuidor"
+msgstr ""
+
+#: orderstray/class-orderstray.php:483 orderstray/class-orderstray.php:802
+#: distributors/class-admin.php:56
+msgid "Cancelado"
+msgstr ""
+
+#: distributors/class-admin.php:19
+msgid "Cancelado por:"
+msgstr ""
+
+#: distributors/class-admin.php:58
+msgid "Cancelado: 2do Intento de entrega fallido"
+msgstr ""
+
+#: distributors/class-admin.php:64
+msgid ""
+"Cancelado: Actualmente es una zona en la que no tenemos cobertura. Te "
+"pedimos disculpas"
+msgstr ""
+
+#: distributors/class-admin.php:59
+msgid "Cancelado: Consumidor Arrepentido"
+msgstr ""
+
+#: distributors/class-admin.php:60
+msgid "Cancelado: Consumidor Desconoce Compra"
+msgstr ""
+
+#: distributors/class-admin.php:57
+msgid "Cancelado: Dirección Inexistente"
+msgstr ""
+
+#: distributors/class-admin.php:62
+msgid ""
+"Cancelado: No contamos con el stock para entregarte el pedido que nos "
+"realizaste"
+msgstr ""
+
+#: distributors/class-admin.php:66
+msgid "Cancelado: No se puede emitir Factura A"
+msgstr ""
+
+#: distributors/class-admin.php:67
+msgid "Cancelado: Otro"
+msgstr ""
+
+#: distributors/class-admin.php:63
+msgid "Cancelado: Pedido ingresó más de una vez"
+msgstr ""
+
+#: distributors/class-admin.php:65
+msgid ""
+"Cancelado: Punto de entrega incorrecto: El punto de entrega ingresado no "
+"coincide con la dirección que nos brindaste"
+msgstr ""
+
+#: distributors/class-admin.php:61
+msgid ""
+"Cancelado: Según la información que recibimos de MercadoPago no se completó "
+"tu pago. En caso que todavía quieras el pedido te pedimos que lo hagas "
+"nuevamente"
+msgstr ""
+
+#: distributors/class-admin.php:443
+msgid "Cancelados"
+msgstr ""
+
+#: checkout/checkout-js.php:596
+msgid "Cancelar"
+msgstr ""
+
+#: sampling/class-table-samples.php:93 sampling/lib/settings.php:50
+#: sampling/lib/settings.php:133
+msgid "Cantidad"
+msgstr ""
+
+#. id
+#: admin/class-settings.php:170
+msgid "Cantidad máxima permitida por producto"
+msgstr ""
+
+#: max-quantity/class-mco-max-quantity.php:292
+msgid "Cantidad máxima por órden"
+msgstr ""
+
+#: orderstray/modal-orders.php:13 distributors/class-admin.php:874
+msgid "Carga de número de factura"
+msgstr ""
+
+#: onboarding/includes/templates/address-modal.php:196
+msgid "Cargar datos de envío"
+msgstr ""
+
+#: distributors/arcor-distributors.php:43
+msgid "Categorías"
+msgstr ""
+
+#: checkout/class-checkout.php:926
+msgid "Celular"
+msgstr ""
+
+#: orderstatus/modal-success.php:11
+msgid "Cerrar"
+msgstr ""
+
+#: print/template-functions.php:199 distributors/class-admin.php:110
+msgid "Ciudad"
+msgstr ""
+
+#: distributors/views/distributor-data-payment.php:116
+msgid "Clave en modo producción"
+msgstr ""
+
+#: distributors/views/distributor-data-payment.php:107
+msgid "Clave en modo test"
+msgstr ""
+
+#: distributors/views/distributor-data-payment.php:145
+msgid "Clave HMAC-SHA-256 de test"
+msgstr ""
+
+#: distributors/views/distributor-data-payment.php:136
+msgid "Clave pública de test"
+msgstr ""
+
+#: distributors/views/distributor-data-payment.php:165
+msgid "Clave ṕública de producción"
+msgstr ""
+
+#: print/template-functions.php:201 distributors/class-admin.php:112
+msgid "Cod Pos"
+msgstr ""
+
+#: location/includes/templates/address-modal.php:6
+msgid "Colocá el marcador en el <b>punto exacto</b> donde recibirás el pedido"
+msgstr ""
+
+#: onboarding/includes/templates/map-modal.php:81
+msgid "Colocá el marcador en el punto exacto donde recibirás el pedido"
+msgstr ""
+
+#. id
+#: admin/class-settings.php:108
+msgid "Color de fondo del header bottom"
+msgstr ""
+
+#: admin/class-settings.php:263
+msgid "Color de Menú de Admin (en micrositio)"
+msgstr ""
+
+#: onboarding/includes/templates/fill-checkout-inputs.php:428
+#: location/includes/templates/fill-checkout-inputs.php:311
+msgid "Completá la dirección de donde tenemos que entregar el pedido."
+msgstr ""
+
+#: onboarding/includes/templates/address-modal.php:153
+msgid ""
+"Completá la información para confirmar que tenemos cobertura, y mostrarte la "
+"disponibilidad de productos para ese lugar."
+msgstr ""
+
+#. id
+#: admin/class-settings.php:162
+msgid "Compra máxima permitida"
+msgstr ""
+
+#. id
+#: admin/class-settings.php:154
+msgid "Compra mínima permitida"
+msgstr ""
+
+#: orderstatus/class-emails.php:348
+msgid ""
+"Con esta validación procederemos a devolver el dinero de tu compra dentro de "
+"las 48 hs hábiles siguientes."
+msgstr ""
+
+#: memcache/class-memcache.php:123
+msgid "Configuraciones Memcache"
+msgstr ""
+
+#: otp-login/lib/settings.php:2
+msgid "Configuraciones OTP"
+msgstr ""
+
+#. id
+#: admin/class-settings.php:186
+msgid "Configuración de Micrositio"
+msgstr ""
+
+#. id
+#: admin/class-settings.php:86
+msgid "Configuración de Performance"
+msgstr ""
+
+#. id
+#: admin/class-settings.php:101
+msgid "Configuración del Header"
+msgstr ""
+
+#. id
+#: admin/class-settings.php:139
+msgid "Configuración del plugin de ArcorEnCasa"
+msgstr ""
+
+#: memcache/class-memcache.php:111
+msgid "Configuración Memcache"
+msgstr ""
+
+#: address-modal/templates/address-selector-modal.php:286
+msgid "CONFIRMAR"
+msgstr ""
+
+#: onboarding/class-onboarding.php:461 checkout/checkout-js.php:489
+#: checkout/checkout-js.php:595 location/class-public.php:23
+msgid "Confirmar"
+msgstr ""
+
+#: onboarding/includes/templates/fill-checkout-inputs.php:418
+#: location/includes/templates/fill-checkout-inputs.php:301
+msgid "Confirmar dirección"
+msgstr ""
+
+#: onboarding/includes/templates/fill-checkout-inputs.php:412
+#: location/includes/templates/fill-checkout-inputs.php:295
+msgid "Confirmar punto de entrega"
+msgstr ""
+
+#: onboarding/class-onboarding.php:473
+msgid "Consultá los días y horarios de entrega para tu zona"
+msgstr ""
+
+#: distributors/class-admin.php:30
+msgid "Consumidor Arrepentido"
+msgstr ""
+
+#: distributors/class-admin.php:31
+msgid "Consumidor Desconoce Compra"
+msgstr ""
+
+#. id
+#: admin/class-settings.php:131
+msgid "Contenido de la primer línea (HTML)"
+msgstr ""
+
+#: onboarding/includes/templates/validation-modal.php:11
+#: location/includes/templates/validation-modal.php:11
+msgid "Continuar"
+msgstr ""
+
+#: login-modal/templates/loginFormModal.php:28
+#: login-modal/templates/loginFormModal.php:29
+#: login-modal/templates/loginFormModal.php:173
+#: login-modal/templates/loginFormModal.php:174
+msgid "Contraseña"
+msgstr ""
+
+#: distributors/views/distributor-data-payment.php:156
+msgid "Contraseña de producción"
+msgstr ""
+
+#: distributors/views/distributor-data-payment.php:127
+msgid "Contraseña de test"
+msgstr ""
+
+#: login-modal/class-mco-login-modal.php:308
+msgid "Contraseña Incorrecta."
+msgstr ""
+
+#: orderstray/class-orderstray.php:508 orderstray/class-orderstray.php:522
+#: orderstray/class-orderstray.php:867
+msgid "Creación"
+msgstr ""
+
+#: import-users/class-import-csv-users-table.php:243
+msgid "Creado"
+msgstr ""
+
+#: reports/class-list-reports-table.php:138
+msgid "Creado por"
+msgstr ""
+
+#: reports/views/mco-reports-admin-view.php:23
+msgid "Crear Reporte"
+msgstr ""
+
+#: distributors/arcor-distributors.php:25
+msgid "Credenciales"
+msgstr ""
+
+#: login-modal/templates/loginFormModal.php:244
+msgid "Creá tu cuenta"
+msgstr ""
+
+#: stock/class-import-csv-stocks.php:84
+#: calendardelivery/class-import-csv-calendar.php:93
+#: calendardelivery/class-import-csv-calendar.php:124
+msgid "CSV file"
+msgstr ""
+
+#: login-modal/templates/loginFormModal.php:82
+msgid "cuenta"
+msgstr ""
+
+#: print/template-functions.php:196 distributors/class-admin.php:107
+msgid "Cuit"
+msgstr ""
+
+#: coupons/lib/settings.php:2
+msgid "Cuponera"
+msgstr ""
+
+#: coupons/lib/settings.php:44 coupons/lib/settings.php:228
+msgid "Cupones Máximos"
+msgstr ""
+
+#: print/template-order-print.php:153
+msgid "Customer Note"
+msgstr ""
+
+#: login-modal/class-mco-login-modal.php:354
+msgid "Código de acceso rápido"
+msgstr ""
+
+#: otp-login/lib/otpl-class.php:162
+msgid "Código de Acceso Único"
+msgstr ""
+
+#: login-modal/class-mco-login-modal.php:360 otp-login/lib/otpl-class.php:325
+msgid "Código expirado"
+msgstr ""
+
+#: otp-login/lib/otpl-class.php:101
+msgid "Código inválido"
+msgstr ""
+
+#: checkout/checkout-js.php:591
+msgid "Código Postal"
+msgstr ""
+
+#. Unique ID
+#: distributors/class-distributors-menu.php:148
+msgid "Datos"
+msgstr ""
+
+#: print/template-order-print.php:72
+#: address-modal/templates/addressModal.php:117
+msgid "Datos de Envío"
+msgstr ""
+
+#: customfieldsuser/class-usercustomfield.php:77
+msgid "Datos Empleado"
+msgstr ""
+
+#: checkout/checkout-js.php:381
+msgid "Datos Necesarios"
+msgstr ""
+
+#: address-modal/templates/addressModal.php:83
+msgid "Datos para el regalo."
+msgstr ""
+
+#: address-book/class-mco-address-book.php:138
+msgid "Datos Personales"
+msgstr ""
+
+#: login-modal/templates/loginFormModal.php:83
+msgid "datos personales"
+msgstr ""
+
+#: checkout/class-checkout.php:773
+#: calendardelivery/class-calendardelivery.php:225
+msgid "De"
+msgstr ""
+
+#: calendardelivery/class-calendardelivery.php:410
+msgid "de"
+msgstr ""
+
+#: checkout/checkout-js.php:484
+msgid "De *"
+msgstr ""
+
+#: address-modal/templates/address-selector-modal.php:197
+msgid "Debe ingresar la altura de la calle con la dirección."
+msgstr ""
+
+#: address-modal/templates/address-selector-modal.php:201
+msgid "Debe seleccionar una dirección de las sugeridas."
+msgstr ""
+
+#: login-modal/class-mco-login-modal.php:367
+msgid "Debes ingresar tu contraseña"
+msgstr ""
+
+#: login-modal/class-mco-login-modal.php:372
+msgid "Debes ser mayor de 18 años para registarte"
+msgstr ""
+
+#: checkout/checkout-js.php:488 checkout/class-checkout.php:776
+msgid "Dedicatoria"
+msgstr ""
+
+#: coupons/class-table-promo.php:56 sampling/class-table-samples.php:74
+msgid "Desactivar"
+msgstr ""
+
+#: reports/class-list-reports-table.php:135 sampling/lib/settings.php:68
+#: sampling/lib/settings.php:152
+msgid "Descripción"
+msgstr ""
+
+#: calendardelivery/class-calendardelivery.php:436
+#: calendardelivery/class-calendardelivery.php:464
+msgid "Detalles de entrega"
+msgstr ""
+
+#: calendardelivery/class-calendardelivery.php:335
+msgid "Detalles de Envío"
+msgstr ""
+
+#: checkout/checkout-js.php:381
+msgid ""
+"Detectamos que están faltando algunos datos de su perfil. Debe completarlos "
+"para poder finalizar la compra."
+msgstr ""
+
+#: orderstray/class-orderstray.php:805 orderstatus/class-new-status.php:206
+#: orderstatus/class-new-status.php:255 distributors/class-admin.php:447
+msgid "Devuelto"
+msgstr ""
+
+#: orderstatus/class-new-status.php:211
+#, php-format
+msgid "Devuelto <span class=\"count\">(%s)</span>"
+msgid_plural "Devueltos <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: checkout/checkout-js.php:474
+msgid "Dirección"
+msgstr ""
+
+#: onboarding/includes/templates/map-modal.php:71
+msgid "Dirección de Envío"
+msgstr ""
+
+#: onboarding/includes/templates/address-modal.php:208
+msgid "Dirección de envío"
+msgstr ""
+
+#: distributors/class-admin.php:28
+msgid "Dirección Inexistente"
+msgstr ""
+
+#: orderstray/class-orderstray.php:506 orderstray/class-orderstray.php:863
+#: customfieldsuser/class-usercustomfield.php:64
+#: stock/class-stock-menu-table.php:280
+msgid "Distribuidor"
+msgstr ""
+
+#: popup-maker/class-popupmaker.php:38
+#: distributors/class-distributors-menu.php:82
+#: distributors/class-distributors-menu.php:98
+msgid "Distribuidores"
+msgstr ""
+
+#: popup-maker/class-popupmaker.php:33
+msgid "Distributors"
+msgstr ""
+
+#: distributors/class-distributors-menu.php:97
+msgid "distributors"
+msgstr ""
+
+#: checkout/class-checkout.php:739 checkout/class-checkout.php:764
+#: checkout/class-checkout.php:815
+#: import-users/class-import-csv-users-table.php:238
+#: login-modal/templates/loginFormModal.php:148
+#: login-modal/templates/loginFormModal.php:149
+msgid "DNI"
+msgstr ""
+
+#: address-modal/templates/addressModal.php:23
+#: address-modal/templates/addressModal.php:57
+msgid "Domicilio donde recibirás los pedidos"
+msgstr ""
+
+#: print/template-order-print.php:280
+msgid "Download:"
+msgstr ""
+
+#: coupons/class-table-promo.php:56 coupons/class-table-promo.php:58
+#: reports/class-list-reports-table.php:121 sampling/class-table-samples.php:74
+#: sampling/class-table-samples.php:76
+msgid "Editar"
+msgstr ""
+
+#: distributors/class-distributors-menu.php:88
+msgid "Editar Distribuidor"
+msgstr ""
+
+#: sku-slider-widget/class-mco-sku-slider.php:99
+msgid "Editar Widgets MCO"
+msgstr ""
+
+#: category-footer-widget/class-mco-category-footer-slider.php:100
+msgid "Editar Widgets MCO footer"
+msgstr ""
+
+#: otp-login/lib/settings.php:30
+msgid "Ejemplo"
+msgstr ""
+
+#: admin/class-settings.php:519 admin/class-settings.php:542
+msgid "El campo no puede estar vacío"
+msgstr ""
+
+#: otp-login/lib/otpl-class.php:284
+msgid "El código fue enviado a tu email"
+msgstr ""
+
+#: otp-login/lib/otpl-class.php:277
+msgid ""
+"El código fue generado con éxito, pero falló el envío de email. Vuelve a "
+"intentarlo!"
+msgstr ""
+
+#: login-modal/class-mco-login-modal.php:359
+msgid "El código no coincide"
+msgstr ""
+
+#: otp-login/lib/otpl-class.php:331
+msgid "El código no coincide. "
+msgstr ""
+
+#: login-modal/class-mco-login-modal.php:366
+msgid "El email ingresado no es válido"
+msgstr ""
+
+#: orderstatus/class-emails.php:84
+#, php-format
+msgid "El pedido #%1$s perteneciente a %2$s ha sido cancelado:"
+msgstr ""
+
+#: orderstatus/class-emails.php:503
+#, php-format
+msgid "El pedido #%s está listo para entregar"
+msgstr ""
+
+#: distributors/class-admin.php:664
+#, php-format
+msgid ""
+"El pedido #%s no tiene número de factura. No puede pasarse a estado "
+"entregado."
+msgstr ""
+
+#: orderstatus/class-emails.php:145
+#, php-format
+msgid "El pedido #%s se ha cancelado"
+msgstr ""
+
+#: onboarding/includes/templates/fill-checkout-inputs.php:413
+#: location/includes/templates/fill-checkout-inputs.php:296
+msgid ""
+"El punto en el mapa lo utilizamos para la distribución, en caso que no "
+"coincida con la dirección no podremos entregarlo, asegurate que sea el "
+"correcto."
+msgstr ""
+
+#: otp-login/lib/otpl-class.php:266
+msgid "El usuario no existe."
+msgstr ""
+
+#: global/arcor-global.php:37
+msgid ""
+"Elegí tu medio de pago preferido. Si elegís MercadoPago no es necesario que "
+"tengas una cuenta."
+msgstr ""
+
+#: onboarding/class-onboarding.php:469
+msgid "Elegí tú Envío"
+msgstr ""
+
+#: distributors/class-admin.php:27
+msgid "Elegí un estado…"
+msgstr ""
+
+#: login-modal/templates/loginFormModal.php:175
+msgid "Elegí una contraseña para ingresar a tu cuenta."
+msgstr ""
+
+#: reports/class-list-reports-table.php:122
+#: address-book/templates/myaccount/my-address-book.php:64
+msgid "Eliminar"
+msgstr ""
+
+#: orderstray/class-orderstray.php:866 checkout/class-checkout.php:933
+#: import-users/class-import-csv-users-table.php:237
+#: print/template-functions.php:40 login-modal/templates/loginFormModal.php:20
+#: login-modal/templates/loginFormModal.php:21
+#: login-modal/templates/loginFormModal.php:128
+#: login-modal/templates/loginFormModal.php:129
+#: login-modal/templates/loginFormModal.php:203
+msgid "Email"
+msgstr ""
+
+#: otp-login/lib/otpl-class.php:50
+msgid "Email inválido"
+msgstr ""
+
+#: login-modal/class-mco-login-modal.php:274
+#: login-modal/class-mco-login-modal.php:279
+msgid "Email o Usuario inexistente!"
+msgstr ""
+
+#. parent menu slug
+#. page_title
+#: import-users/class-import-csv-users.php:29
+#: import-users/class-import-csv-users.php:30
+msgid "Empleados"
+msgstr ""
+
+#: customfieldsuser/class-usercustomfield.php:94
+#: customfieldsuser/class-usercustomfield.php:165
+#: import-users/class-import-csv-users-table.php:240
+msgid "Empresa"
+msgstr ""
+
+#: print/class-orderprint.php:207 ordersexport/class-ordersexport.php:163
+#: ordersexport/class-ordersexportlite.php:154
+msgid "Empty method"
+msgstr ""
+
+#: orderstray/class-orderstray.php:482 orderstray/class-orderstray.php:801
+#: orderstatus/class-new-status.php:222 orderstatus/class-new-status.php:252
+msgid "En Armado"
+msgstr ""
+
+#: orderstatus/class-new-status.php:227
+#, php-format
+msgid "En Armado <span class=\"count\">(%s)</span>"
+msgid_plural "En Armado <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: orderstatus/modal-confirm.php:9
+msgid "En caso de confirmar, no será posible deshacer la solicitud."
+msgstr ""
+
+#: checkout/checkout-js.php:547
+msgid ""
+"En caso de que para tu factura apliquen percepciones impositivas, nos "
+"pondremos en contacto para informarte las diferencias que pudieran "
+"corresponder en función a tu situación fiscal. <b>Si no podemos contactarte "
+"cancelaremos el pedido.</b>"
+msgstr ""
+
+#: orderstatus/class-emails.php:86
+msgid ""
+"En caso que necesites ayuda adicional con este pedido podés contactamos a "
+"través de nuestro servicio de atención al cliente en arcorencasa.com/contacto"
+msgstr ""
+
+#: otp-login/lib/otpl-class.php:215
+msgid ""
+"En caso que necesites ayuda adicional podés contactarnos a través de nuestro "
+"servicio de atención al cliente en arcorencasa.com/contacto"
+msgstr ""
+
+#: orderstray/class-orderstray.php:478 orderstray/class-orderstray.php:798
+#: distributors/class-admin.php:441
+msgid "En espera"
+msgstr ""
+
+#: orderstray/class-orderstray.php:445 checkout/class-checkout.php:726
+#: checkout/class-checkout.php:756 distributors/class-admin.php:629
+msgid "Entre"
+msgstr ""
+
+#: address-modal/templates/address-selector-modal.php:240
+msgid "Entre calle 1"
+msgstr ""
+
+#: orderstray/class-orderstray.php:509 orderstray/class-orderstray.php:523
+#: orderstray/class-orderstray.php:870
+msgid "Entrega"
+msgstr ""
+
+#: orderstray/class-orderstray.php:475 orderstray/class-orderstray.php:794
+#: distributors/class-admin.php:440
+msgid "Entregados"
+msgstr ""
+
+#: otp-login/lib/otpl-class.php:163
+msgid "Enviar"
+msgstr ""
+
+#: login-modal/templates/loginFormModal.php:211
+msgid "Enviar Código"
+msgstr ""
+
+#: address-modal/class-mco-address-modal.php:366
+msgid "Enviaremos a:"
+msgstr ""
+
+#: address-modal/class-mco-address-modal.php:365
+msgid "Enviaremos tu pedido a:"
+msgstr ""
+
+#: checkout/checkout-js.php:473
+msgid "Enviaremos tu regalo a"
+msgstr ""
+
+#: orderstray/class-orderstray.php:514 orderstray/class-orderstray.php:528
+#: distributors/class-admin.php:591
+#: checkout-multistep/classes/class-thwmscf-settings.php:63
+#: checkout-multistep/templates/checkout/form-checkout.php:44
+msgid "Envío"
+msgstr ""
+
+#: address-modal/templates/address-selector-modal.php:36
+msgid "Envío a domicilio"
+msgstr ""
+
+#: coupons/lib/settings.php:174 coupons/lib/settings.php:328
+msgid "Envío Gratis"
+msgstr ""
+
+#: distributors/arcor-distributors.php:31
+msgid "Envíos"
+msgstr ""
+
+#: otp-login/lib/otpl-class.php:259
+msgid "Error de validación"
+msgstr ""
+
+#: stock/class-stock-menu-table.php:283
+msgid "Es activo"
+msgstr ""
+
+#: admin/class-settings.php:430
+msgid "Es micrositio"
+msgstr ""
+
+#: location/includes/templates/address-modal.php:9
+msgid ""
+"Es necesario para confirmar que tenemos cobertura, y mostrarte la "
+"disponibilidad de productos para ese lugar"
+msgstr ""
+
+#: address-modal/templates/addressModal.php:28
+msgid "Es una dirección para hacer un regalo."
+msgstr ""
+
+#: stock/class-stock-menu-table.php:282
+msgid "Es visible"
+msgstr ""
+
+#: orderstray/class-orderstray.php:448 orderstray/class-orderstray.php:450
+#: checkout/class-checkout.php:729 checkout/class-checkout.php:731
+#: checkout/class-checkout.php:759 checkout/class-checkout.php:761
+#: distributors/class-admin.php:632 distributors/class-admin.php:634
+msgid "Esquina"
+msgstr ""
+
+#: address-modal/templates/addressModal.php:118
+msgid "Esta información nos sirve para encontrar mejor tu envío."
+msgstr ""
+
+#: orderstray/class-orderstray.php:510 orderstray/class-orderstray.php:524
+#: import-users/class-import-csv-users-table.php:232
+msgid "Estado"
+msgstr ""
+
+#: popup-maker/class-popupmaker.php:53
+msgid "Excepto a Distribuidores con IDs"
+msgstr ""
+
+#: coupons/lib/settings.php:157 coupons/lib/settings.php:311
+msgid "Excepto Categorías:"
+msgstr ""
+
+#: coupons/lib/settings.php:118 coupons/lib/settings.php:280
+msgid "Excepto Productos:"
+msgstr ""
+
+#: coupons/class-table-promo.php:79
+msgid "Expira ..."
+msgstr ""
+
+#: orderstray/class-orderstray.php:591 ordersexport/class-ordersexport.php:118
+msgid "Exportar Detalle a CSV"
+msgstr ""
+
+#: orderstray/class-orderstray.php:592
+#: ordersexport/class-ordersexportlite.php:110
+msgid "Exportar Resumen a CSV"
+msgstr ""
+
+#: orderstray/class-orderstray.php:511 orderstray/class-orderstray.php:525
+#: orderstray/modal-orders.php:10 distributors/class-admin.php:838
+#: distributors/class-admin.php:871
+msgid "Factura"
+msgstr ""
+
+#: checkout/checkout-js.php:543
+msgid "Factura A: "
+msgstr ""
+
+#: orderstray/class-orderstray.php:512 orderstray/class-orderstray.php:526
+#: checkout-multistep/classes/class-thwmscf-settings.php:62
+#: checkout-multistep/templates/checkout/form-checkout.php:43
+msgid "Facturación"
+msgstr ""
+
+#: orderstray/modal-orders.php:37
+msgid "Facturas Cargadas"
+msgstr ""
+
+#: distributors/class-admin.php:225
+msgid "Facturas cargadas"
+msgstr ""
+
+#: orderstray/class-orderstray.php:800 distributors/class-admin.php:444
+msgid "Fallados"
+msgstr ""
+
+#: orderstray/class-orderstray.php:480
+msgid "Fallido"
+msgstr ""
+
+#: distributors/class-admin.php:33
+msgid "Falta de stock"
+msgstr ""
+
+#: calendardelivery/delivery-date-content.php:28
+msgid "Fecha *"
+msgstr ""
+
+#: coupons/class-table-promo.php:80 reports/class-list-reports-table.php:139
+msgid "Fecha creación"
+msgstr ""
+
+#: calendardelivery/class-calendardelivery.php:407
+msgid "Fecha de Entrega"
+msgstr ""
+
+#: print/template-order-print.php:95
+#: calendardelivery/class-calendardelivery.php:437
+#: calendardelivery/class-calendardelivery.php:467
+msgid "Fecha de entrega"
+msgstr ""
+
+#: checkout/checkout-js.php:355 login-modal/templates/loginFormModal.php:160
+#: login-modal/templates/loginFormModal.php:162
+msgid "Fecha de Nacimiento"
+msgstr ""
+
+#: checkout/class-checkout.php:735
+msgid "Fecha de nacimiento"
+msgstr ""
+
+#: checkout/class-checkout.php:808
+msgid "Fecha Nacimiento"
+msgstr ""
+
+#: calendardelivery/delivery-date-content.php:15
+msgid "Fecha:"
+msgstr ""
+
+#: calendardelivery/class-import-csv-calendar.php:114
+msgid "Feriados/vacaciones de todos los distribuidores"
+msgstr ""
+
+#: address-modal/class-mco-address-modal.php:357
+#: address-modal/class-mco-address-modal.php:363
+msgid "Finalizar Compra"
+msgstr ""
+
+#: stock/class-import-csv-stocks.php:95
+#: calendardelivery/class-import-csv-calendar.php:104
+#: calendardelivery/class-import-csv-calendar.php:135
+msgid "Formato"
+msgstr ""
+
+#: calendardelivery/class-calendardelivery.php:438
+#: calendardelivery/class-calendardelivery.php:468
+msgid "Franja horaria"
+msgstr ""
+
+#: sampling/class-sampling.php:450 sampling/class-sampling.php:463
+msgid "free"
+msgstr ""
+
+#: distributors/arcor-distributors.php:13
+msgid "General"
+msgstr ""
+
+#. id
+#: admin/class-settings.php:146
+msgid "Google Maps API Key"
+msgstr ""
+
+#: orderstray/modal-orders.php:48 distributors/class-admin.php:895
+msgid "Guardar"
+msgstr ""
+
+#: onboarding/includes/templates/validation-modal.php:8
+#: location/includes/templates/validation-modal.php:8
+msgid "Ha ocurrido un error. Por favor reintenta nuevamente"
+msgstr ""
+
+#: otp-login/lib/otpl-class.php:212
+msgid ""
+"Hemos recibido una petición para acceder al sitio. El código para ingresar "
+"es:"
+msgstr ""
+
+#: login-modal/class-mco-login-modal.php:256 orderstatus/class-emails.php:83
+#: orderstatus/class-emails.php:169 orderstatus/class-emails.php:252
+#: orderstatus/class-emails.php:340 orderstatus/class-emails.php:440
+#: otp-login/lib/otpl-class.php:211
+#, php-format
+msgid "Hola %s,"
+msgstr ""
+
+#: calendardelivery/delivery-date-content.php:38
+msgid "Hora *"
+msgstr ""
+
+#: reports/class-list-reports-table.php:133
+msgid "ID"
+msgstr ""
+
+#: fix-order-distributor/lib/settings.php:18
+msgid "ID de Distribuidor (nuevo)"
+msgstr ""
+
+#: change-distributor-id/lib/settings.php:14
+msgid "ID de Distribuidor ACTUAL"
+msgstr ""
+
+#: change-distributor-id/lib/settings.php:18
+msgid "ID de Distribuidor NUEVO"
+msgstr ""
+
+#: fix-order-distributor/lib/settings.php:14
+msgid "ID de Orden Actual"
+msgstr ""
+
+#: distributors/views/distributor-data-payment.php:98
+msgid "ID de Tienda"
+msgstr ""
+
+#: customfieldsuser/class-usercustomfield.php:67
+msgid "Id Distribuidor"
+msgstr ""
+
+#: print/template-order-print.php:65
+msgid "ID Pago Lyra"
+msgstr ""
+
+#: print/template-order-print.php:60
+msgid "ID Pago MercadoPago"
+msgstr ""
+
+#: popup-maker/class-popupmaker.php:48 popup-maker/class-popupmaker.php:55
+msgid ""
+"IDs de distribuidores separados por coma. (dejar ambos campos sin datos "
+"mostrará para todos los distribuidores)"
+msgstr ""
+
+#: stock/class-import-csv-stocks.php:99
+#: import-users/class-import-csv-users.php:101
+#: import-users/class-import-csv-users-table.php:437
+#: calendardelivery/class-import-csv-calendar.php:108
+#: calendardelivery/class-import-csv-calendar.php:139
+msgid "Importar"
+msgstr ""
+
+#. page_title
+#: calendardelivery/class-import-csv-calendar.php:26
+msgid "Importar Calendario"
+msgstr ""
+
+#: calendardelivery/class-import-csv-calendar.php:82
+msgid "Importar CSV"
+msgstr ""
+
+#. parent menu slug
+#: calendardelivery/class-import-csv-calendar.php:25
+msgid "Importar CSV Calendario"
+msgstr ""
+
+#. parent menu slug
+#: stock/class-import-csv-stocks.php:25
+msgid "Importar CSV Stocks"
+msgstr ""
+
+#: import-users/class-import-csv-users-table.php:391
+msgid "Importar Empleados"
+msgstr ""
+
+#: import-users/class-import-csv-users.php:64
+msgid "Importar empleados desde CSV"
+msgstr ""
+
+#. page_title
+#: stock/class-import-csv-stocks.php:26
+msgid "Importar Stocks"
+msgstr ""
+
+#: stock/class-import-csv-stocks.php:75
+msgid "Importar todo el stock desde archivo CSV"
+msgstr ""
+
+#: import-users/class-import-csv-users-table.php:30
+msgid "importcsvuser"
+msgstr ""
+
+#: import-users/class-import-csv-users-table.php:31
+msgid "importcsvusers"
+msgstr ""
+
+#: orderstray/class-orderstray.php:590 print/class-orderprint.php:135
+#: print/template-order-print.php:35
+msgid "Imprimir"
+msgstr ""
+
+#: print/class-orderprint.php:57 print/class-orderprint.php:149
+msgid "Imprimir Orden"
+msgstr ""
+
+#: print/class-orderprint.php:163
+msgid "Imprimir Orden(es)"
+msgstr ""
+
+#: coupons/lib/settings.php:133 coupons/lib/settings.php:287
+msgid "Incluir Categorías:"
+msgstr ""
+
+#: coupons/lib/settings.php:98 coupons/lib/settings.php:276
+msgid "Incluir Productos:"
+msgstr ""
+
+#: otp-login/lib/otpl-class.php:167
+msgid "Ingresa el código que fue enviado a tu email"
+msgstr ""
+
+#: address-modal/templates/address-selector-modal.php:195
+msgid "Ingresa tu Dirección"
+msgstr ""
+
+#: login-modal/class-mco-login-modal.php:353
+#: checkout-multistep/classes/class-thwmscf-settings.php:61
+#: login-modal/templates/loginFormModal.php:55
+#: checkout-multistep/templates/checkout/form-checkout.php:42
+msgid "Ingresar"
+msgstr ""
+
+#: login-modal/class-mco-login-modal.php:352
+msgid "Ingresá a tu cuenta"
+msgstr ""
+
+#: login-modal/class-mco-login-modal.php:351
+msgid "Ingresá ahora con tu cuenta o registrate para comenzar a disfrutar"
+msgstr ""
+
+#: login-modal/templates/loginFormModal.php:227
+msgid "Ingresá el código"
+msgstr ""
+
+#: login-modal/templates/loginFormModal.php:224
+msgid "Ingresá el código que te enviamos"
+msgstr ""
+
+#: otp-login/lib/otpl-class.php:162
+msgid "Ingresá el email de tu cuenta!"
+msgstr ""
+
+#: onboarding/class-onboarding.php:466 location/class-public.php:28
+#: onboarding/includes/templates/address-modal.php:184
+msgid "Ingresá la dirección y seleccioná de las que aparecen en la lista."
+msgstr ""
+
+#: login-modal/templates/loginFormModal.php:70
+#: login-modal/templates/loginFormModal.php:71
+#: login-modal/templates/loginFormModal.php:204
+msgid "Ingresá tu Correo Electrónico"
+msgstr ""
+
+#: login-modal/class-mco-login-modal.php:365
+msgid "Ingresá un email válido"
+msgstr ""
+
+#: address-book/class-mco-address-book.php:129
+msgid "Inicio"
+msgstr ""
+
+#: address-modal/templates/address-selector-modal.php:184
+msgid "IR A COMPRAR"
+msgstr ""
+
+#: coupons/class-table-promo.php:73
+msgid "Key 1"
+msgstr ""
+
+#: coupons/class-table-promo.php:74
+msgid "Key 2"
+msgstr ""
+
+#: login-modal/class-mco-login-modal.php:369
+msgid ""
+"La contraseña debe contener al menos 8 caracteres, 1 letra mayúscula y 1 "
+"minúscula."
+msgstr ""
+
+#: onboarding/includes/templates/address-modal.php:161
+#: onboarding/includes/templates/address-modal.php:179
+msgid "LA DIRECCIÓN INGRESADA ES INVÁLIDA"
+msgstr ""
+
+#: onboarding/class-onboarding.php:465 location/class-public.php:27
+msgid "La dirección ingresada es inválida."
+msgstr ""
+
+#: otp-login/lib/otpl-class.php:250
+msgid "La solicitud ha sido cancelada."
+msgstr ""
+
+#: sampling/lib/settings.php:61 sampling/lib/settings.php:144
+msgid "Label a mostrar"
+msgstr ""
+
+#: address-book/templates/myaccount/my-address-book.php:32
+msgid ""
+"Las siguientes direcciones van a estar disponibles durante el proceso de "
+"compra."
+msgstr ""
+
+#: customfieldsuser/class-usercustomfield.php:82
+#: customfieldsuser/class-usercustomfield.php:153
+#: import-users/class-import-csv-users-table.php:239
+msgid "Legajo"
+msgstr ""
+
+#: address-book/class-mco-address-book.php:135
+msgid "Libreta de Direcciones"
+msgstr ""
+
+#: orderstray/class-orderstray.php:873
+#: import-users/class-import-csv-users-table.php:330
+msgid "Limpiar"
+msgstr ""
+
+#: reports/class-list-reports-table.php:18
+msgid "Listado de Reportes"
+msgstr ""
+
+#: orderstatus/modal-success.php:5
+msgid "Listo"
+msgstr ""
+
+#: orderstatus/class-new-status.php:158 orderstatus/class-new-status.php:250
+msgid "Listo para entregar"
+msgstr ""
+
+#: orderstatus/class-new-status.php:163
+#, php-format
+msgid "Listo para entregar <span class=\"count\">(%s)</span>"
+msgid_plural "Listo para entregar <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: orderstray/class-orderstray.php:797
+msgid "Listos para entregar"
+msgstr ""
+
+#: coupons/lib/settings.php:29 coupons/lib/settings.php:213
+msgid "Llave 1"
+msgstr ""
+
+#: coupons/lib/settings.php:33 coupons/lib/settings.php:217
+msgid "Llave 2"
+msgstr ""
+
+#: address-modal/templates/addressModal.php:40
+msgid "Llegamos a tu zona."
+msgstr ""
+
+#: address-modal/templates/address-selector-modal.php:205
+#: address-modal/templates/address-selector-modal.php:279
+#: address-modal/templates/addressModal.php:65
+msgid "Lo sentimos. Por el momento no estamos llegando a esta zona."
+msgstr ""
+
+#: checkout/checkout-js.php:581
+msgid "Localidad / Ciudad"
+msgstr ""
+
+#: otp-login/lib/otpl-class.php:317
+msgid "Logueado correctamente!"
+msgstr ""
+
+#: onboarding/class-onboarding.php:472 location/class-public.php:30
+msgid "Lugar de entrega confirmado"
+msgstr ""
+
+#: print/template-order-print.php:143
+msgid "Marcar como entregado"
+msgstr ""
+
+#: memcache/class-memcache.php:112
+msgid "Memcache"
+msgstr ""
+
+#. id
+#: admin/class-settings.php:312
+msgid "Mensaje del banner"
+msgstr ""
+
+#. id
+#: admin/class-settings.php:320
+msgid "Mensaje del botón del banner"
+msgstr ""
+
+#: orderstray/class-orderstray.php:527 distributors/class-admin.php:590
+msgid "MercadoPago"
+msgstr ""
+
+#: orderstray/class-orderstray.php:513
+msgid "MercadoPago/Lyra"
+msgstr ""
+
+#: admin/class-settings.php:481 admin/class-settings.php:483
+msgid "Merge + Minify + Refresh"
+msgstr ""
+
+#: sampling/class-table-samples.php:97 coupons/lib/settings.php:84
+#: coupons/lib/settings.php:268 sampling/lib/settings.php:91
+#: sampling/lib/settings.php:175
+msgid "Monto máximo"
+msgstr ""
+
+#: sampling/class-table-samples.php:96 coupons/lib/settings.php:80
+#: coupons/lib/settings.php:264 sampling/lib/settings.php:87
+#: sampling/lib/settings.php:171
+msgid "Monto mínimo"
+msgstr ""
+
+#: admin/class-settings.php:340
+msgid "Mostrar Banner"
+msgstr ""
+
+#: fix-order-distributor/lib/settings.php:24
+msgid "Mover Orden"
+msgstr ""
+
+#: fix-order-distributor/lib/settings.php:2
+msgid "Mover Orden Distribuidor"
+msgstr ""
+
+#: sampling/class-sampling.php:140 sampling/class-sampling.php:168
+msgid "MUESTRA GRATIS"
+msgstr ""
+
+#: sampling/lib/settings.php:2
+msgid "Muestras Gratis"
+msgstr ""
+
+#: memcache/class-memcache.php:198
+msgid "Muestras seteadas"
+msgstr ""
+
+#: global/class-global.php:116
+#, php-format
+msgid "mínimo de envío; debe llegar a %s."
+msgstr ""
+
+#: print/template-order-print.php:52 print/template-order-print.php:77
+msgid "N/A"
+msgstr ""
+
+#: checkout/checkout-js.php:542
+msgid "Necesito Factura A"
+msgstr ""
+
+#: distributors/class-admin.php:710
+msgid "No hay números de facturas cargados. No se puede pasar a Entregado"
+msgstr ""
+
+#: import-users/class-import-csv-users-table.php:142
+msgid "No imports available."
+msgstr ""
+
+#: otp-login/lib/otpl-class.php:321
+msgid "No logueado"
+msgstr ""
+
+#: reports/class-list-reports-table.php:95
+msgid "No se encontraron reportes."
+msgstr ""
+
+#: orderstray/class-orderstray.php:378
+msgid "No se encontraron resultados."
+msgstr ""
+
+#: memcache/class-memcache.php:83
+msgid "no se pudo realizar la acción"
+msgstr ""
+
+#: distributors/class-admin.php:37
+msgid "No se puede emitir Factura A"
+msgstr ""
+
+#: stock/class-stock-menu-table.php:238
+msgid "No stocks available."
+msgstr ""
+
+#: otp-login/otp-login.php:127 fix-order-distributor/class-fix-order.php:101
+#: coupons/class-coupon.php:339 reports/class-mco-reports.php:174
+#: reports/class-mco-reports.php:202
+#: change-distributor-id/class-change-distributor-id.php:187
+#: sampling/class-sampling.php:523
+msgid "No tienes suficientes permisos para acceder a esta página."
+msgstr ""
+
+#: stock/class-stock-menu-table.php:279 stock/class-stock-menu-table.php:289
+#: import-users/class-import-csv-users-table.php:235
+#: reports/class-list-reports-table.php:134
+#: login-modal/templates/loginFormModal.php:107
+#: login-modal/templates/loginFormModal.php:108
+msgid "Nombre"
+msgstr ""
+
+#: address-modal/templates/address-selector-modal.php:231
+msgid "Nombre (ej Casa, Oficina) (*)"
+msgstr ""
+
+#. id
+#: admin/class-settings.php:178
+msgid "Nombre Cookie"
+msgstr ""
+
+#: orderstray/class-orderstray.php:865
+msgid "Nombre/ID"
+msgstr ""
+
+#: orderstatus/class-emails.php:345
+msgid ""
+"Nos pondremos en contacto dentro de las 48 hs hábiles para coordinar el día "
+"de retiro."
+msgstr ""
+
+#: distributors/class-distributors-menu.php:91
+msgid "Not Found"
+msgstr ""
+
+#: distributors/class-distributors-menu.php:92
+msgid "Not found in Trash"
+msgstr ""
+
+#: print/template-order-print.php:108
+msgid "Nota de Entrega"
+msgstr ""
+
+#: distributors/class-admin.php:244
+msgid "Nueva Factura"
+msgstr ""
+
+#: checkout/checkout-js.php:576 checkout/class-checkout.php:546
+#: checkout/class-checkout.php:552 checkout/class-checkout.php:579
+#: checkout/class-checkout.php:585 checkout/class-checkout.php:822
+#: checkout/class-checkout.php:905 print/template-functions.php:198
+#: distributors/class-admin.php:109
+msgid "Número"
+msgstr ""
+
+#: checkout/checkout-js.php:561
+msgid "Número de Cuit"
+msgstr ""
+
+#: checkout/checkout-js.php:352
+msgid "Número de Documento"
+msgstr ""
+
+#: orderstray/modal-orders.php:26 distributors/class-admin.php:885
+msgid "Número de factura"
+msgstr ""
+
+#: login-modal/class-mco-login-modal.php:358
+msgid "Ocurrió un error desconocido"
+msgstr ""
+
+#: memcache/class-memcache.php:57 memcache/class-memcache.php:67
+msgid "ocurrió un problema"
+msgstr ""
+
+#: max-quantity/class-mco-max-quantity.php:295
+msgid ""
+"Opcional. Establezca un límite máximo de cantidad de unidades permitido por "
+"orden. Ingrese un número, 1 o mayor."
+msgstr ""
+
+#: import-users/class-import-csv-users.php:84
+#: import-users/class-import-csv-users-table.php:420
+msgid "Opciones"
+msgstr ""
+
+#: distributors/class-admin.php:72
+msgid "Orden Cancelada por"
+msgstr ""
+
+#: orderstray/modal-orders.php:71
+msgid "Orden sin facturas"
+msgstr ""
+
+#: orderstray/class-orderstray.php:38
+msgid "order"
+msgstr ""
+
+#: print/template-functions.php:28
+msgid "Order Date"
+msgstr ""
+
+#: print/template-functions.php:23
+msgid "Order Number"
+msgstr ""
+
+#: orderstray/class-orderstray.php:39
+msgid "orders"
+msgstr ""
+
+#: otp-login/lib/otpl-class.php:138
+msgid "OTP inválido"
+msgstr ""
+
+#: distributors/class-admin.php:38
+msgid "Otro"
+msgstr ""
+
+#: checkout-crosssell/class-crosssell.php:128
+msgid "Pack"
+msgstr ""
+
+#: checkout-multistep/classes/class-thwmscf-settings.php:64
+#: checkout-multistep/templates/checkout/form-checkout.php:45
+msgid "Pago"
+msgstr ""
+
+#: distributors/class-admin.php:32
+msgid "Pago MP Incompleto"
+msgstr ""
+
+#: orderstray/class-orderstray.php:795 distributors/class-admin.php:438
+msgid "Pagos pendientes"
+msgstr ""
+
+#: distributors/class-admin.php:437
+msgid "Papelera"
+msgstr ""
+
+#: checkout/class-checkout.php:770
+msgid "Para"
+msgstr ""
+
+#: login-modal/class-mco-login-modal.php:261
+#, php-format
+msgid "Para modificarla ingresá a tu cuenta con tu email en: %s"
+msgstr ""
+
+#: distributors/class-distributors-menu.php:83
+msgid "Parent Movie"
+msgstr ""
+
+#: print/template-functions.php:33
+msgid "Payment Method"
+msgstr ""
+
+#: orderstray/class-orderstray.php:507 orderstray/class-orderstray.php:521
+msgid "Pedido"
+msgstr ""
+
+#: orderstatus/class-emails.php:142
+#, php-format
+msgid "Pedido cancelado: #%s"
+msgstr ""
+
+#: distributors/class-admin.php:34
+msgid "Pedido duplicado"
+msgstr ""
+
+#: orderstray/class-orderstray.php:481
+msgid "Pedido listo para entregar"
+msgstr ""
+
+#: orderstatus/class-emails.php:500
+#, php-format
+msgid "Pedido listo para entregar: #%s"
+msgstr ""
+
+#: orderstray/class-orderstray.php:476
+msgid "Pendiente de pago"
+msgstr ""
+
+#: distributors/class-admin.php:262
+msgid "Permite Recibir Comunicaciones"
+msgstr ""
+
+#: distributors/class-admin.php:258
+msgid "Permite Recibir Muestras"
+msgstr ""
+
+#: address-modal/templates/address-selector-modal.php:234
+msgid "Piso y Depto - Barrio/ Lote"
+msgstr ""
+
+#: orderstatus/class-emails.php:177 orderstatus/class-emails.php:258
+#: orderstatus/class-emails.php:354
+msgid ""
+"Por cualquier otra consulta, no dudes en escribirnos a través del formulario "
+"de nuestra web, haciendo click aquí: arcorencasa.com/contacto"
+msgstr ""
+
+#: orderstatus/class-emails.php:494
+msgid ""
+"Por cualquier otra consulta, no dudes en escribirnos a través del formulario "
+"de nuestra web, haciendo click aquí: https://arcorencasa.com/contacto/"
+msgstr ""
+
+#: login-modal/class-mco-login-modal.php:364
+msgid "Por favor revisa los datos ingresados!"
+msgstr ""
+
+#: login-modal/class-mco-login-modal.php:349
+msgid "Por favor revisá los datos ingresados"
+msgstr ""
+
+#: onboarding/includes/templates/address-modal.php:171
+msgid "Por favor, ingresa otra dirección."
+msgstr ""
+
+#: onboarding/includes/templates/address-modal.php:189
+msgid "Por favor, selecciona una dirección."
+msgstr ""
+
+#: orderstatus/class-emails.php:101 orderstatus/class-emails.php:194
+#: orderstatus/class-emails.php:273 orderstatus/class-emails.php:372
+#: orderstatus/class-emails.php:456
+msgid "Precio"
+msgstr ""
+
+#: print/template-functions.php:75 print/template-order-print.php:260
+#: print/template-order-print.php:268
+msgid "Precio por Unidad:"
+msgstr ""
+
+#: print/template-order-print.php:169
+msgid "Price"
+msgstr ""
+
+#: checkout/checkout-js.php:346
+msgid "Primer Nombre"
+msgstr ""
+
+#: orderstray/class-orderstray.php:477 orderstray/class-orderstray.php:796
+#: distributors/class-admin.php:439
+msgid "Procesando"
+msgstr ""
+
+#: print/template-order-print.php:168
+msgid "Product"
+msgstr ""
+
+#: orderstatus/class-emails.php:100 orderstatus/class-emails.php:193
+#: orderstatus/class-emails.php:272 orderstatus/class-emails.php:371
+#: orderstatus/class-emails.php:455 sampling/class-table-samples.php:91
+msgid "Producto"
+msgstr ""
+
+#: sampling/class-table-samples.php:16
+msgid "producto"
+msgstr ""
+
+#: sampling/lib/settings.php:30 sampling/lib/settings.php:128
+msgid "Producto (Buscar por SKU)"
+msgstr ""
+
+#: sampling/class-table-samples.php:17
+msgid "productos"
+msgstr ""
+
+#: coupons/class-table-promo.php:15
+msgid "promo"
+msgstr ""
+
+#: coupons/class-table-promo.php:16
+msgid "promos"
+msgstr ""
+
+#: print/template-functions.php:200 distributors/class-admin.php:111
+msgid "Provincia"
+msgstr ""
+
+#: distributors/views/distributor-data-payment.php:48
+msgid "Public Key Prod"
+msgstr ""
+
+#: distributors/views/distributor-data-payment.php:67
+msgid "Public Key Test"
+msgstr ""
+
+#: max-quantity/class-mco-max-quantity.php:231
+#: max-quantity/class-mco-max-quantity.php:273
+#, php-format
+msgid "Puedes agregar un máximo de %1$s %2$s's a %3$s."
+msgstr ""
+
+#: max-quantity/class-mco-max-quantity.php:216
+#, php-format
+msgid ""
+"Puedes agregar un máximo de %1$s %2$s's a %3$s. Ya tienes agregado %4$s."
+msgstr ""
+
+#: print/template-order-print.php:122
+msgid "Punto de Entrega"
+msgstr ""
+
+#: distributors/class-admin.php:36
+msgid "Punto Incorrecto"
+msgstr ""
+
+#. id
+#: admin/class-settings.php:271
+msgid "Página de producto"
+msgstr ""
+
+#: print/template-order-print.php:170
+msgid "Quantity"
+msgstr ""
+
+#: checkout/checkout-js.php:553 print/template-functions.php:195
+#: distributors/class-admin.php:106
+msgid "Razón Social"
+msgstr ""
+
+#: memcache/class-memcache.php:207
+msgid "Recargar Distribuidores"
+msgstr ""
+
+#: memcache/class-memcache.php:206
+msgid "Recargar muestras gratis"
+msgstr ""
+
+#: memcache/class-memcache.php:205
+msgid "Recargar Stock"
+msgstr ""
+
+#: otp-login/otp-login.php:60
+msgid "Recibir un código de acceso único"
+msgstr ""
+
+#: checkout/checkout-js.php:497
+msgid "Recibirás en"
+msgstr ""
+
+#: login-modal/templates/loginFormModal.php:44
+msgid "Recibí un código de acceso rápido"
+msgstr ""
+
+#: onboarding/class-onboarding.php:470
+msgid "Recibís en: "
+msgstr ""
+
+#: orderstatus/class-emails.php:493
+msgid ""
+"Recordá que podés revisar los tiempos y franjas horarias de entrega en "
+"nuestra política de envíos haciendo click aquí: https://arcorencasa."
+"com/politicas-de-envio/ y que los pedidos tienen un tiempo promedio de "
+"entrega de 48 hs, pero en algunas zonas debido al contexto actual podríamos "
+"demorar hasta 7 días. Trabajamos cada día para mejorar estos tiempos!"
+msgstr ""
+
+#: login-modal/templates/loginFormModal.php:77
+msgid "Recuperar Contraseña"
+msgstr ""
+
+#: login-modal/class-mco-login-modal.php:355
+#: login-modal/templates/loginFormModal.php:39
+msgid "Recuperá tu contraseña"
+msgstr ""
+
+#: orderstray/class-orderstray.php:479
+msgid "Reembolsado"
+msgstr ""
+
+#: orderstray/class-orderstray.php:799 distributors/class-admin.php:442
+msgid "Reembolsados"
+msgstr ""
+
+#: otp-login/lib/otpl-class.php:278 otp-login/lib/otpl-class.php:325
+#: otp-login/lib/otpl-class.php:331
+#: login-modal/templates/loginFormModal.php:231
+msgid "Reenviar código"
+msgstr ""
+
+#: address-modal/templates/address-selector-modal.php:102
+msgid "REGALAR"
+msgstr ""
+
+#: address-modal/templates/address-selector-modal.php:39
+msgid "Regalar"
+msgstr ""
+
+#: checkout/checkout-js.php:493
+msgid "Regalo"
+msgstr ""
+
+#: address-modal/templates/addressModal.php:170
+msgid "REGISTRAR"
+msgstr ""
+
+#: admin/class-settings.php:691
+msgid "Registrate gratis!"
+msgstr ""
+
+#: checkout/checkout-js.php:586
+msgid "Región / Provincia"
+msgstr ""
+
+#: orderstatus/class-new-status.php:50 orderstatus/class-new-status.php:105
+msgid "Repetir"
+msgstr ""
+
+#: reports/class-list-reports-table.php:17
+msgid "Reporte"
+msgstr ""
+
+#: reports/class-list-reports-table.php:120
+msgid "Reproducir"
+msgstr ""
+
+#: reports/views/mco-reports-play-view.php:81
+msgid "Reproducir Consulta"
+msgstr ""
+
+#: login-modal/class-mco-login-modal.php:257
+msgid "Reseteamos tu contraseña:"
+msgstr ""
+
+#: reports/class-play-selected-report-table.php:20
+msgid "Resultado del Reporte seleccionado"
+msgstr ""
+
+#: reports/class-play-selected-report-table.php:21
+msgid "Resultados del Reporte seleccionado"
+msgstr ""
+
+#: login-modal/class-mco-login-modal.php:363
+msgid "Revisa el email!"
+msgstr ""
+
+#: login-modal/class-mco-login-modal.php:361
+msgid "Revisa los datos faltantes!"
+msgstr ""
+
+#: login-modal/class-mco-login-modal.php:276
+msgid "Revisa tu Correo!"
+msgstr ""
+
+#: login-modal/class-mco-login-modal.php:362
+msgid "Revisá tus datos!"
+msgstr ""
+
+#: import-users/class-import-csv-users-table.php:241
+msgid "Role"
+msgstr ""
+
+#: reports/class-list-reports-table.php:136
+msgid "Roles permitidos"
+msgstr ""
+
+#: login-modal/templates/loginFormModal.php:80
+msgid ""
+"Se enviará una contraseña a tu dirección de correo electrónico. \n"
+"                Una vez que hayas accedido a tu cuenta podrás cambiarla "
+"ingresando a la sección mi"
+msgstr ""
+
+#: address-book/templates/myaccount/my-address-book.php:63
+msgid "Seleccionar"
+msgstr ""
+
+#: onboarding/class-onboarding.php:467 location/class-public.php:29
+msgid "Seleccioná el lugar donde recibirás el pedido"
+msgstr ""
+
+#: import-users/class-import-csv-users.php:78
+#: import-users/class-import-csv-users-table.php:414
+msgid "separado por comas"
+msgstr ""
+
+#: address-modal/templates/address-selector-modal.php:102
+msgid "Si tu compra es para regalo, haz click arriba en el botón "
+msgstr ""
+
+#: address-modal/templates/address-selector-modal.php:272
+msgid ""
+"Si tu dirección no coincide con el punto que se muestra en el mapa, por "
+"favor mueve el puntero al punto correcto."
+msgstr ""
+
+#: address-modal/templates/addressModal.php:49
+#: address-modal/templates/addressModal.php:75
+#: address-modal/templates/addressModal.php:109
+msgid "SIGUIENTE"
+msgstr ""
+
+#: checkout-multistep/classes/class-thwmscf-settings.php:73
+#: login-modal/templates/loginFormModal.php:187
+#: checkout-multistep/templates/checkout/form-checkout.php:54
+msgid "Siguiente"
+msgstr ""
+
+#: stock/class-stock-menu-table.php:278 stock/class-stock-menu-table.php:288
+#: sampling/class-table-samples.php:92 sampling/lib/settings.php:57
+#: sampling/lib/settings.php:140
+msgid "SKU"
+msgstr ""
+
+#: import-users/class-import-csv-users-table.php:242
+msgid "Sobreescribir"
+msgstr ""
+
+#: orderstatus/class-emails.php:235 orderstatus/class-emails.php:238
+#, php-format
+msgid "Solicitaste la cancelación del pedido #%s"
+msgstr ""
+
+#: orderstatus/class-emails.php:413 orderstatus/class-emails.php:416
+#, php-format
+msgid "Solicitaste la devolución del pedido #%s"
+msgstr ""
+
+#: login-modal/class-mco-login-modal.php:268
+#: login-modal/class-mco-login-modal.php:271
+msgid "Solicitaste un cambio de contraseña"
+msgstr ""
+
+#: orderstatus/class-new-status.php:179
+#, php-format
+msgid "Solicitu de Devolución <span class=\"count\">(%s)</span>"
+msgid_plural "Solicitud de Devolución <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: orderstray/class-orderstray.php:804 orderstatus/class-new-status.php:190
+#: orderstatus/class-new-status.php:254 distributors/class-admin.php:446
+msgid "Solicitud de Cancelación"
+msgstr ""
+
+#: orderstatus/class-new-status.php:195
+#, php-format
+msgid "Solicitud de Cancelación <span class=\"count\">(%s)</span>"
+msgid_plural "Solicitud de Cancelación <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: orderstray/class-orderstray.php:803 orderstatus/class-new-status.php:174
+#: orderstatus/class-new-status.php:253 distributors/class-admin.php:445
+msgid "Solicitud de Devolución"
+msgstr ""
+
+#: popup-maker/class-popupmaker.php:46
+msgid "Solo a Distribuidores con IDs"
+msgstr ""
+
+#: onboarding/includes/templates/fill-checkout-inputs.php:424
+#: location/includes/templates/fill-checkout-inputs.php:307
+msgid ""
+"Son los datos de quien realiza la compra, a quien notificaremos del estado "
+"del pedido y enviaremos la factura."
+msgstr ""
+
+#: stock/class-stock-menu-table.php:31
+msgid "stock"
+msgstr ""
+
+#: stock/class-stock-menu-table.php:281 stock/class-stock-menu-table.php:290
+msgid "Stock Disponible"
+msgstr ""
+
+#: memcache/class-memcache.php:55 memcache/class-memcache.php:65
+msgid "stock recargado con éxito"
+msgstr ""
+
+#: memcache/class-memcache.php:197
+msgid "Stock seteado"
+msgstr ""
+
+#: stock/class-stock-menu-table.php:423
+msgid "Stock Vigente desde hoy 7:00 AM"
+msgstr ""
+
+#: stock/class-stock-menu-table.php:32
+msgid "stocks"
+msgstr ""
+
+#: orderstatus/class-emails.php:253
+msgid ""
+"Te confirmamos que pudimos procesar satisfactoriamente la devolución de tu "
+"pedido. Ya solicitamos el reembolso por lo que en los próximos días/semanas "
+"estarás recibiendo el mismo. Te recordamos que los tiempos de devolución "
+"dependen enteramente del método de pago que hayas utilizado y no de nosotros."
+msgstr ""
+
+#: orderstatus/class-emails.php:170
+msgid "Te confirmamos que recibimos la solicitud de cancelación de tu pedido."
+msgstr ""
+
+#: orderstatus/class-emails.php:341
+msgid ""
+"Te confirmamos que recibimos la solicitud de devolución de tu pedido y "
+"procederemos a procesarla. Los pasos que seguiremos son los siguientes:"
+msgstr ""
+
+#: orderstatus/class-emails.php:349
+msgid ""
+"Te enviaremos una confirmación via email cuando se haya procesado el "
+"reembolso."
+msgstr ""
+
+#: login-modal/class-mco-login-modal.php:357
+msgid "Te faltan datos"
+msgstr ""
+
+#: orderstatus/class-emails.php:175 orderstatus/class-emails.php:352
+msgid ""
+"Te pedimos disculpas por cualquier inconveniente que hayas tenido, y te "
+"esperamos nuevamente en Arcor en Casa para disfrutar de tus productos "
+"preferidos!"
+msgstr ""
+
+#: orderstatus/class-emails.php:256
+msgid ""
+"Te pedimos disculpas por cualquier inconveniente que hayas tenido, y te "
+"esperamos nuevamente en Arcor en Casa para disfrutar de tus productos "
+"preferidos! "
+msgstr ""
+
+#: address-modal/templates/addressModal.php:84
+msgid ""
+"Te pedimos que nos indiques datos adicionales de quien recibirá el regalo."
+msgstr ""
+
+#: address-modal/templates/addressModal.php:24
+#: address-modal/templates/addressModal.php:58
+msgid ""
+"Te pedimos que nos indiques la dirección de tu casa, tu oficina o el lugar "
+"donde quieras recibir tus pedidos."
+msgstr ""
+
+#: print/template-functions.php:47
+msgid "Telephone"
+msgstr ""
+
+#: checkout/checkout-js.php:486 login-modal/templates/loginFormModal.php:136
+#: login-modal/templates/loginFormModal.php:137
+msgid "Teléfono"
+msgstr ""
+
+#: checkout/checkout-js.php:358
+msgid "Teléfono de Contacto"
+msgstr ""
+
+#: stock/class-import-csv-stocks.php:97
+msgid ""
+"Tenga en cuenta que esta acción borrará la tabla por completo y cargará el "
+"nuevo stock."
+msgstr ""
+
+#: orderstatus/class-emails.php:349
+msgid ""
+"Tené en cuenta que la devolución del importe depende de los tiempos de "
+"procesamiento de tu tarjeta."
+msgstr ""
+
+#: admin/class-settings.php:246
+msgid "Texto botón menú (Micrositio)"
+msgstr ""
+
+#: admin/class-settings.php:229
+msgid "Texto botón menú (Sitio Principal)"
+msgstr ""
+
+#: otp-login/lib/settings.php:16
+msgid "Tiempo de expiración"
+msgstr ""
+
+#: coupons/lib/settings.php:62 coupons/lib/settings.php:246
+msgid "Tipo de Descuento"
+msgstr ""
+
+#: onboarding/includes/templates/address-modal.php:166
+msgid "Todavía no estamos llegando a esta zona, ¡Pero en breve lo haremos!."
+msgstr ""
+
+#: address-modal/templates/addressModal.php:37
+msgid "Todavía no llegamos a esa zona. Intente con otra dirección."
+msgstr ""
+
+#: onboarding/class-onboarding.php:468
+msgid "Todavía no seleccionaste envío"
+msgstr ""
+
+#: orderstray/class-orderstray.php:474 orderstray/class-orderstray.php:793
+#: distributors/class-admin.php:436
+msgid "Todos"
+msgstr ""
+
+#: distributors/class-distributors-menu.php:84
+msgid "Todos los Distribuidores"
+msgstr ""
+
+#: orderstray/class-orderstray.php:515 orderstray/class-orderstray.php:529
+#: print/template-order-print.php:171
+msgid "Total"
+msgstr ""
+
+#: login-modal/class-mco-login-modal.php:259
+#, php-format
+msgid "Tu contraseña se ha generado automáticamente: <strong> %s </strong>"
+msgstr ""
+
+#: checkout/checkout-js.php:508
+msgid "Tu dedicatoria"
+msgstr ""
+
+#: address-book/templates/myaccount/my-address-book.php:29
+msgid "Tu Libreta de Direcciones"
+msgstr ""
+
+#: max-quantity/class-mco-max-quantity.php:219
+#: max-quantity/class-mco-max-quantity.php:234
+#: max-quantity/class-mco-max-quantity.php:276
+msgid "tu pedido"
+msgstr ""
+
+#: orderstatus/class-emails.php:317
+#, php-format
+msgid "Tu pedido #%s ya fue devuelto"
+msgstr ""
+
+#: orderstatus/class-emails.php:314
+#, php-format
+msgid "Tu pedido #%s ya fue devuelto: "
+msgstr ""
+
+#: orderstatus/class-emails.php:441
+msgid ""
+"Tu pedido está preparado y listo para entregar. ¡En breve podrás disfrutar "
+"de tus productos preferidos!"
+msgstr ""
+
+#: address-modal/templates/address-selector-modal.php:43
+msgid "TUS DIRECCIONES"
+msgstr ""
+
+#: address-book/class-mco-address-book.php:132
+msgid "Tus Pedidos"
+msgstr ""
+
+#: sampling/class-table-samples.php:94
+msgid "Título"
+msgstr ""
+
+#: coupons/class-table-promo.php:75
+msgid "Título de Cupón"
+msgstr ""
+
+#: coupons/lib/settings.php:40 coupons/lib/settings.php:224
+msgid "Título de cupón"
+msgstr ""
+
+#: distributors/arcor-distributors.php:19
+msgid "Ubicación"
+msgstr ""
+
+#: login-modal/class-mco-login-modal.php:356
+msgid ""
+"Una nueva contraseña fué enviada a tu correo. Presioná VOLVER para ingresar"
+msgstr ""
+
+#: import-users/class-import-csv-users.php:89
+#: import-users/class-import-csv-users-table.php:425
+msgid "Update"
+msgstr ""
+
+#. id
+#: admin/class-settings.php:328
+msgid "Url del Link del banner"
+msgstr ""
+
+#: admin/class-settings.php:237
+msgid "Url del Micrositio"
+msgstr ""
+
+#: admin/class-settings.php:220
+msgid "Url del Sitio Principal"
+msgstr ""
+
+#. id
+#: admin/class-settings.php:116
+msgid "URL imagen de fondo del header bottom"
+msgstr ""
+
+#: coupons/class-table-promo.php:78
+msgid "Uso / limite"
+msgstr ""
+
+#: coupons/lib/settings.php:178 coupons/lib/settings.php:332
+msgid "Uso individual"
+msgstr ""
+
+#: onboarding/includes/templates/fill-checkout-inputs.php:432
+#: location/includes/templates/fill-checkout-inputs.php:315
+msgid ""
+"Usá este espacio para darnos instrucciones adicionales para la entrega, por "
+"ejemplo si es un regalo el nombre de quién recibe, o mayor información de la "
+"dirección de entrega."
+msgstr ""
+
+#: coupons/lib/settings.php:481 coupons/lib/settings.php:483
+msgid "Validar Cupón"
+msgstr ""
+
+#: login-modal/templates/loginFormModal.php:234
+msgid "Validar Código"
+msgstr ""
+
+#: coupons/lib/settings.php:73 coupons/lib/settings.php:257
+msgid "Valor"
+msgstr ""
+
+#: orderstatus/class-emails.php:346
+msgid ""
+"Vamos a pasar dos veces por tu domicilio en la franja horaria acordada con "
+"vos. Si luego de la segunda visita no pudimos retirar el producto, se tendrá "
+"por desistida la devolución."
+msgstr ""
+
+#: distributors/class-distributors-menu.php:85
+msgid "Ver Distribuidor"
+msgstr ""
+
+#: otp-login/lib/otpl-class.php:170
+msgid "Verificar código"
+msgstr ""
+
+#: login-modal/class-mco-login-modal.php:370
+msgid "Verificá tu documento"
+msgstr ""
+
+#: login-modal/class-mco-login-modal.php:371
+msgid "Verificá tu fecha de nacimiento"
+msgstr ""
+
+#: login-modal/class-mco-login-modal.php:373
+msgid "Verificá tu teléfono"
+msgstr ""
+
+#: admin/arcor-admin.php:27
+msgid "View Changelog"
+msgstr ""
+
+#: login-modal/templates/loginFormModal.php:245
+msgid "VOLVER"
+msgstr ""
+
+#: checkout-multistep/classes/class-thwmscf-settings.php:75
+#: checkout-multistep/templates/checkout/form-checkout.php:56
+msgid "Volver al carrito"
+msgstr ""
+
+#: coupons/class-table-promo.php:77 sampling/class-table-samples.php:98
+#: coupons/lib/settings.php:51 coupons/lib/settings.php:235
+#: sampling/lib/settings.php:75 sampling/lib/settings.php:159
+msgid "Válido desde"
+msgstr ""
+
+#: sampling/class-table-samples.php:99 coupons/lib/settings.php:55
+#: coupons/lib/settings.php:239 sampling/lib/settings.php:79
+#: sampling/lib/settings.php:163
+msgid "Válido hasta"
+msgstr ""
+
+#: orderstray/class-orderstray.php:446 checkout/class-checkout.php:727
+#: checkout/class-checkout.php:757 distributors/class-admin.php:630
+msgid "y"
+msgstr ""
+
+#: address-modal/templates/address-selector-modal.php:243
+msgid "y calle 2"
+msgstr ""
+
+#: orderstray/modal-orders.php:32 distributors/class-admin.php:890
+msgid "Ya existe la factura en la lista"
+msgstr ""
+
+#: login-modal/class-mco-login-modal.php:368
+msgid ""
+"Ya existe una cuenta asociada a este email. Por favor intenta con otro "
+"correo electrónico o ingresá con tu email y contraseña en el paso anterior."
+msgstr ""
+
+#: orderstatus/modal-success.php:8
+msgid ""
+"Ya recibimos tu solicitud, te estaremos enviando más información por email."
+msgstr ""
+
+#: print/class-orderprint.php:203 ordersexport/class-ordersexport.php:159
+#: ordersexport/class-ordersexportlite.php:150
+msgid "You can not do it"
+msgstr ""
+
+#: stock/class-import-csv-stocks.php:43
+#: import-users/class-import-csv-users.php:49
+#: calendardelivery/class-import-csv-calendar.php:43
+#: distributors/class-distributors-menu.php:64
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: distributors/class-admin.php:35
+msgid "Zona Peligrosa"
+msgstr ""
+
+#: coupons/lib/settings.php:442 reports/views/mco-reports-admin-view.php:176
+#: sampling/lib/settings.php:286
+msgid "¡Acción Exitosa!"
+msgstr ""
+
+#: category-footer-widget/class-category-footer-slider-widget.php:138
+#: sku-slider-widget/class-sku-slider-widget.php:103
+#: checkout-crosssell/class-crosssell.php:153
+msgid "¡Agregado!"
+msgstr ""
+
+#: onboarding/includes/templates/address-modal.php:148
+msgid "¡BIENVENIDO A ARCOR EN CASA!"
+msgstr ""
+
+#: login-modal/class-mco-login-modal.php:350
+msgid "¡Bienvenido a Arcor en Casa!"
+msgstr ""
+
+#: coupons/class-coupon.php:117
+msgid "¡Cupón inválido o ya utilizado!"
+msgstr ""
+
+#: coupons/lib/settings.php:446 reports/views/mco-reports-admin-view.php:182
+#: sampling/lib/settings.php:290
+msgid "¡Error al realizar la acción!"
+msgstr ""
+
+#: login-modal/class-mco-login-modal.php:262
+msgid ""
+"¡Esperamos verte pronto para disfrutar de tus productos preferidos sin "
+"moverte de tu casa!"
+msgstr ""
+
+#: orderstatus/class-emails.php:495
+msgid "¡Gracias por comprar en arcorencasa.com!"
+msgstr ""
+
+#: global/class-global.php:351
+#, php-format
+msgid "¡Hola %s! Te faltan %s para alcanzar el monto mínimo de compra. "
+msgstr ""
+
+#: global/class-global.php:356
+#, php-format
+msgid ""
+"¡Hola %s! Todavía no agregaste productos a tu pedido. El mínimo de compra es "
+"de %s "
+msgstr ""
+
+#: onboarding/class-onboarding.php:463 location/class-public.php:25
+#: onboarding/includes/templates/show-address-modal.php:4
+#: onboarding/includes/templates/fill-checkout-inputs.php:320
+#: location/includes/templates/show-address-modal.php:4
+#: location/includes/templates/fill-checkout-inputs.php:215
+msgid "¡Perfecto! Registramos tu punto de entrega."
+msgstr ""
+
+#: otp-login/lib/otpl-class.php:226 otp-login/lib/otpl-class.php:229
+msgid "¡Recibiste un código de acceso!"
+msgstr ""
+
+#: admin/class-settings.php:202
+msgid "¿Activar Modo Prueba?"
+msgstr ""
+
+#: admin/class-settings.php:193
+msgid "¿Activar Promo Micrositio?"
+msgstr ""
+
+#: address-modal/templates/address-selector-modal.php:25
+msgid "¿Dónde enviamos tu pedido?"
+msgstr ""
+
+#: onboarding/includes/templates/fill-checkout-inputs.php:388
+#: onboarding/includes/templates/fill-checkout-inputs.php:392
+#: location/includes/templates/fill-checkout-inputs.php:271
+#: location/includes/templates/fill-checkout-inputs.php:275
+msgid "¿Entre qué calles está?"
+msgstr ""
+
+#: coupons/class-table-promo.php:76 reports/class-list-reports-table.php:137
+msgid "¿Es activo?"
+msgstr ""
+
+#: address-modal/templates/address-selector-modal.php:271
+msgid "¿Es correcta esta dirección?"
+msgstr ""
+
+#: admin/class-settings.php:211
+msgid "¿Es Micrositio?"
+msgstr ""
+
+#: checkout-crosssell/class-crosssell.php:111
+msgid "¿Te quedaste con ganas de sumar algo más?"
+msgstr ""
+
+#: login-modal/templates/loginFormModal.php:61
+msgid "¿Todavía no tenés una cuenta?"
+msgstr ""

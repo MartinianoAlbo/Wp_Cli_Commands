@@ -1,0 +1,14 @@
+{
+    "name": "root/mco-test",
+    "autoload": {
+        "psr-4": {
+            "Root\\McoTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alvaro"
+        }
+    ],
+    "require": {}
+}
